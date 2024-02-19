@@ -27,7 +27,7 @@ A minimal open source desktop planner, developed in C++ and QT.
 Clone the project
 
 ```bash
-  git clone https://github.com/pol-cova/Tasky
+  git clone https://github.com/pol-cova/Tasky.git
 ```
 
 Go to the project directory
@@ -39,7 +39,7 @@ Go to the project directory
 Running with qmake 
 
 ```bash
-  qmake -makefile -o Makefile "CONFIG+=test" tasky.pro
+  qmake -makefile -o Makefile "CONFIG+=test" Tasky.pro
 ```
 
 
