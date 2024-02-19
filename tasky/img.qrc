@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>tasky.png</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>event.png</file>
+        <file>contactos.png</file>
+        <file>addEvent.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>enter.svg</file>
+        <file>info.svg</file>
+        <file>settings.svg</file>
+        <file>x.svg</file>
+        <file>addContact.svg</file>
+        <file>atras.svg</file>
+        <file>contactos.svg</file>
+        <file>search.svg</file>
+        <file>home.svg</file>
+        <file>calendar.svg</file>
+        <file>add_event.svg</file>
+    </qresource>
+</RCC>
