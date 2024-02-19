@@ -27,25 +27,19 @@ A minimal open source desktop planner, developed in C++ and QT.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/pol-cova/Tasky
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd tasky
 ```
 
-Install dependencies
+Running with qmake 
 
 ```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
+  qmake -makefile -o Makefile "CONFIG+=test" tasky.pro
 ```
 
 
